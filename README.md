@@ -1,6 +1,6 @@
 # Text-to-SQL API
 
-A FastAPI application for converting natural language queries to SQL and ingesting CSV files into SQL tables.
+Built as a half-day prototype to explore natural-language querying over SQL tables end to end. Now being upgraded toward a production-style service.
 
 ## Installation
 
